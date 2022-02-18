@@ -1,5 +1,5 @@
 WPU RESOLUSI
 - Ingin konsisten membuat aplikasi game dalam jangka waktu kedepan!
 - Membuat Sistem Informasi Akademik untuk sekolah di indonesia
-- project manajemen blanjaloka
 - admin,pengelola,pengguna,pemda,driver
+- menambahkan pemasaran di bidang vlog
